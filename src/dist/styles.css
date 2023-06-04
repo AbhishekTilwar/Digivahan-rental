@@ -24,7 +24,7 @@ body {
 /* Firefox */
 * {
   scrollbar-width: thin;
-  scrollbar-color: #ff4d30 #ffffff;
+  scrollbar-color: #29DCF3 #ffffff;
 }
 
 /* Chrome, Edge and Safari */
@@ -48,15 +48,15 @@ body {
 
 *::-webkit-scrollbar-thumb {
   border-radius: 20px;
-  background-color: #ff4d30;
+  background-color: #29DCF3;
 }
 
 *::-webkit-scrollbar-thumb:hover {
-  background-color: #ff4d30;
+  background-color: #29DCF3;
 }
 
 *::-webkit-scrollbar-thumb:active {
-  background-color: #ff2525;
+  background-color: #29DCF3;
 }
 
 .navbar {
@@ -130,11 +130,11 @@ body {
   color: white;
   padding: 1.5rem 3rem;
   border-radius: 3px;
-  box-shadow: 0 10px 15px 0 rgba(255, 83, 48, 0.35);
+  box-shadow: 0 10px 15px 0 rgba(32, 153, 184, 0.6);
   transition: all 0.3s;
 }
 .navbar__buttons__register:hover {
-  box-shadow: 0 10px 15px 0 rgba(255, 83, 48, 0.5);
+  box-shadow: 0 10px 15px 0 rgba(32, 153, 184, 0.6);
   background-color: #29DCF3;
 }
 .navbar__buttons a {
@@ -301,7 +301,7 @@ body {
   }
 }
 .hero-content__text__btns__book-ride:hover {
-  box-shadow: 0 10px 15px 0 rgba(255, 83, 48, 0.6);
+  box-shadow: 0 10px 15px 0 rgba(32, 153, 184, 0.6);
   background-color: #29DCF3;
 }
 .hero-content__text__btns__learn-more {
@@ -903,7 +903,7 @@ body {
   text-align: left;
 }
 .pick-box button:hover {
-  background-color: #ff4d30;
+  background-color: #29DCF3;
   color: white;
 }
 
@@ -926,7 +926,7 @@ body {
 }
 .pick-description__price {
   width: 100%;
-  background-color: #ff4d30;
+  background-color: #29DCF3;
   font-size: 1.8rem;
   display: flex;
   align-items: center;
@@ -1147,7 +1147,7 @@ body {
   background-color: #29DCF3;
   padding: 1.5rem 2.5rem;
   border-radius: 0.3rem;
-  box-shadow: 0 10px 15px 0 rgba(255, 83, 48, 0.35);
+  box-shadow: 0 10px 15px 0 rgba(32, 153, 184, 0.6);
   transition: all 0.3s;
   border: 2px solid #29DCF3;
   font-size: 1.6rem;
@@ -1155,7 +1155,7 @@ body {
   width: fit-content;
 }
 .text-container__left a:hover {
-  box-shadow: 0 10px 15px 0 rgba(255, 83, 48, 0.6);
+  box-shadow: 0 10px 15px 0 rgba(32, 153, 184, 0.6);
   background-color: #29DCF3;
 }
 .text-container__right {
@@ -1397,7 +1397,7 @@ body {
 .active-question {
   background-color: #29DCF3;
   color: white;
-  box-shadow: 0 10px 15px 0 rgba(255, 83, 48, 0.35);
+  box-shadow: 0 10px 15px 0 rgba(32, 153, 184, 0.6);
 }
 
 .download-section {
@@ -1576,7 +1576,7 @@ footer {
   background-color: #29DCF3;
   padding: 1.5rem 2.5rem;
   border-radius: 0.3rem;
-  box-shadow: 0 10px 15px 0 rgba(255, 83, 48, 0.25);
+  box-shadow: 0 10px 15px 0 rgba(32, 153, 184, 0.6);
   transition: all 0.3s;
   border: 2px solid #29DCF3;
   font-size: 1.6rem;
@@ -1586,7 +1586,7 @@ footer {
   width: 100%;
 }
 .submit-email:hover {
-  box-shadow: 0 10px 15px 0 rgba(255, 83, 48, 0.4);
+  box-shadow: 0 10px 15px 0 rgba(32, 153, 184, 0.6);
   background-color: #29DCF3;
 }
 
@@ -1904,14 +1904,14 @@ footer {
   background-color: #29DCF3;
   padding: 1.8rem 3rem;
   border-radius: 0.3rem;
-  box-shadow: 0 10px 15px 0 rgba(255, 83, 48, 0.35);
+  box-shadow: 0 10px 15px 0 rgba(32, 153, 184, 0.6);
   transition: all 0.3s;
   border: 2px solid #29DCF3;
   font-size: 1.8rem;
   cursor: pointer;
 }
 .models-div__box__descr__name-price__btn:hover {
-  box-shadow: 0 10px 15px 0 rgba(255, 83, 48, 0.6);
+  box-shadow: 0 10px 15px 0 rgba(32, 153, 184, 0.6);
   background-color: #29DCF3;
 }
 .models-div__box__descr__name-price__btn a {
@@ -2066,7 +2066,7 @@ footer {
   background-color: #29DCF3;
   padding: 1.8rem 3rem;
   border-radius: 0.3rem;
-  box-shadow: 0 10px 15px 0 rgba(255, 83, 48, 0.35);
+  box-shadow: 0 10px 15px 0 rgba(32, 153, 184, 0.6);
   transition: all 0.3s;
   border: 2px solid #29DCF3;
   color: white;
@@ -2075,6 +2075,6 @@ footer {
   cursor: pointer;
 }
 .contact-div__form form button:hover {
-  box-shadow: 0 10px 15px 0 rgba(255, 83, 48, 0.6);
+  box-shadow: 0 10px 15px 0 rgba(32, 153, 184, 0.6);
   background-color: #29DCF3;
 }/*# sourceMappingURL=styles.css.map */
