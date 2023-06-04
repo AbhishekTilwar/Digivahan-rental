@@ -24,7 +24,7 @@ function Footer() {
                 carrental@gmail.com"
                 >
                   <i className="fa-solid fa-envelope"></i>
-                  &nbsp; carrental@gmail.com
+                  &nbsp; carrental@digivahan.com
                 </a>
               </li>
 
