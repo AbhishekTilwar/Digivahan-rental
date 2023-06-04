@@ -466,12 +466,12 @@ body {
   font-weight: 500;
   color: white;
   background-color: #29DCF3;
-  box-shadow: 0 10px 15px rgba(255, 83, 48, 0.35);
+  box-shadow: 0 10px 15px rgba(32, 153, 184, 0.6);
   cursor: pointer;
   transition: all 0.3s;
 }
 .book-content__box button:hover {
-  box-shadow: 0 10px 15px rgba(255, 83, 48, 0.55);
+  box-shadow: 0 10px 15px rgba(32, 153, 184, 0.6);
 }
 
 .error-message {
@@ -1538,7 +1538,7 @@ footer {
   transition: all 0.2s;
 }
 .footer-content__2 a:hover {
-  color: #ff4d30;
+  color: #29DCF3;
 }
 .footer-content__2 li {
   font-size: 1.6rem;
@@ -1631,7 +1631,7 @@ footer {
   transition: all 0.2s;
 }
 .hero-pages__text p a:hover {
-  color: #ff4d30;
+  color: #29DCF3;
 }
 
 .about-main {
