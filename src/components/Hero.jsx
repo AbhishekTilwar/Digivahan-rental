@@ -39,7 +39,7 @@ function Hero() {
             <div className="hero-content__text">
               <h4>Plan your trip now</h4>
               <h1>
-                Save <span>big</span> with our car rental
+                Save <span>big</span> with DIGI VAHAN car rental
               </h1>
               <p>
                 Rent the car of your dreams. Unbeatable prices, unlimited miles,
