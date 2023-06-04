@@ -39,32 +39,7 @@ function Footer() {
               </li>
             </ul>
 
-            <ul className="footer-content__2">
-              <li>Company</li>
-              <li>
-                <a href="#home">Pune, India</a>
-              </li>
-              <li>
-                <a href="#home">Careers</a>
-              </li>
-              <li>
-                <a href="#home">Mobile</a>
-              </li>
-              <li>
-                <a href="#home">Blog</a>
-              </li>
-              <li>
-                <a href="#home">How we work</a>
-              </li>
-            </ul>
-
-            <ul className="footer-content__2">
-              <li>Working Hours</li>
-              <li>Mon - Fri: 9:00AM - 9:00PM</li>
-              <li>Sat: 9:00AM - 19:00PM</li>
-              <li>Sun: Closed</li>
-            </ul>
-
+           
             <ul className="footer-content__2">
               <li>Subscription</li>
               <li>
